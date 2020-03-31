@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeusContatinhos.Api", "MeusContatinhos.Api\MeusContatinhos.Api.csproj", "{CB843FB0-4754-402D-9A97-970CE6261E04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeusContatinhos.Dominio", "MeusContatinhos.Modelo\MeusContatinhos.Dominio.csproj", "{FD396E20-3518-429A-B1C1-187F2EFBDA1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB843FB0-4754-402D-9A97-970CE6261E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB843FB0-4754-402D-9A97-970CE6261E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB843FB0-4754-402D-9A97-970CE6261E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB843FB0-4754-402D-9A97-970CE6261E04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD396E20-3518-429A-B1C1-187F2EFBDA1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD396E20-3518-429A-B1C1-187F2EFBDA1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD396E20-3518-429A-B1C1-187F2EFBDA1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD396E20-3518-429A-B1C1-187F2EFBDA1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D2291B6-0664-4FFC-94FF-5534209C2D2F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\thami\Source\Repos\MeusContatinhos\MeusContatinhos.Modelo\bin\Debug\netcoreapp3.1\MeusContatinhos.Dominio.deps.json
+C:\Users\thami\Source\Repos\MeusContatinhos\MeusContatinhos.Modelo\bin\Debug\netcoreapp3.1\MeusContatinhos.Dominio.dll
+C:\Users\thami\Source\Repos\MeusContatinhos\MeusContatinhos.Modelo\bin\Debug\netcoreapp3.1\MeusContatinhos.Dominio.pdb
+C:\Users\thami\Source\Repos\MeusContatinhos\MeusContatinhos.Modelo\obj\Debug\netcoreapp3.1\MeusContatinhos.Dominio.csprojAssemblyReference.cache
+C:\Users\thami\Source\Repos\MeusContatinhos\MeusContatinhos.Modelo\obj\Debug\netcoreapp3.1\MeusContatinhos.Dominio.AssemblyInfoInputs.cache
+C:\Users\thami\Source\Repos\MeusContatinhos\MeusContatinhos.Modelo\obj\Debug\netcoreapp3.1\MeusContatinhos.Dominio.AssemblyInfo.cs
+C:\Users\thami\Source\Repos\MeusContatinhos\MeusContatinhos.Modelo\obj\Debug\netcoreapp3.1\MeusContatinhos.Dominio.dll
+C:\Users\thami\Source\Repos\MeusContatinhos\MeusContatinhos.Modelo\obj\Debug\netcoreapp3.1\MeusContatinhos.Dominio.pdb
